@@ -4,11 +4,16 @@ body{
 
 p {
     font-size: 35px;
-    font-family: 'Arcade';
+    font-family: 'Connection';
     color: aliceblue;
 }
 
 @font-face {
     font-family: Arcade;
     src: url(fontseeeeee/ARCADECLASSIC.TTF);
+}
+
+@font-face {
+    font-family: Connection;
+    src: url(fontseeeeee/Connection-arMJ.otf);
 }
