@@ -4,6 +4,12 @@ Basiclly src code for PolyHeck site lol
 ---
 ### Website Updates :OOOOOOOO
 
+#### Update 6: The first build 0-0
+##### List of changes
+---
+ - Uploaded Ver 2.0: Developer Build tho so uhh yee u need code
+
+
 #### Update 5
 ##### List of changes
 ---
