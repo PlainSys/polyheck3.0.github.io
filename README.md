@@ -4,6 +4,13 @@ Basiclly src code for PolyHeck site lol
 ---
 ### Website Updates :OOOOOOOO
 
+#### Update 7: The Return of Plain
+##### List of changes
+---
+ - Fixed a website error in the QNA page
+ - Updated the Status page
+ 
+
 #### Update 6: The first build 0-0
 ##### List of changes
 ---
